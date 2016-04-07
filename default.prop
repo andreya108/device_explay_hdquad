@@ -1,0 +1,23 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+persist.sys.usb.config=mass_storage,adb
+persist.service.acm.enable=0
+ro.mount.fs=EXT4
+ro.build.id=KTU84P
+ro.product.model=Explay HD Quad
+ro.product.brand=Explay
+ro.product.name=HDQuad
+ro.product.device=HDQuad
+ro.product.board=HDQuad
+ro.product.manufacturer=Explay
+ro.product.cpu.abi=armeabi-v7a
+ro.product.cpu.abi2=armeabi
+ro.board.platform=MT6589
+ro.build.product=HDQuad
+#usb.vendor=17EF
+#usb.product.adb=74ED
+#usb.product.mtpadb=7718
